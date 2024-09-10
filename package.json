@@ -9,8 +9,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-cli": "~0.1.9",
+    "grunt": "~1.5.3",
+    "grunt-cli": "~1.5.0",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-concat": "*",
     "grunt-contrib-jasmine": "*",
